@@ -1,0 +1,147 @@
+body{
+	text-align:center;
+	border-radius:25px; 
+	background-color: #646D7E;
+	color: #221811;
+	font-family: Verdana, Arial, sans-serif;}
+
+main{
+	padding-bottom: 5px;
+	text-align: center;
+	background-color: #7BAAC4;
+	font-style:bold;
+	font-size:1.em;
+	}
+	
+	header {
+		border-radius:25px 25px 0px 0px;
+		background-color: #2B547E;
+		height: 150px;
+		text-align: center;
+}
+	
+	p
+	{
+		padding-left:50px;
+		padding-right:50px;
+		padding-bottom:20px;
+	}
+
+h1{
+	padding-left:50px;
+	text-align: left;
+	padding-top: 45px;
+	padding-bottom: 210px;
+	font-size:3em;
+	color:#E5E4E2;
+}
+		
+h2 {
+	height:50px;
+	padding-top: 35px;
+	text-align: center; 	
+	background-color:#5499C7;
+}	
+
+h3{	
+	position:relative;
+	right:-50px;
+	text-align:center;
+}
+
+h4{
+	position:relative;
+	right:-60px;
+}
+
+#about{
+	text-align:center;
+	font-size:-5x;
+}
+
+#trucking{
+	margin-right:5px;
+	margin-left:150px;
+}
+
+#navbar{	
+	background-color:#2980B9;
+	 
+}
+
+#address
+{
+	font-size:.75em;
+}		
+
+#rocklist{
+	list-style-type:none;
+}
+
+#rocklist>li>.image>img{
+	max-height:300px;
+	max-width:300px;
+	position:relative;
+	left:-22px;
+}
+
+#serviceslist>li>.image>img{
+	max-height:300px;
+	max-width:300px;
+	position:relative;
+	left:-10px;
+	border-radius:15px;
+}
+
+#serviceslist{
+	list-style-type:none;
+}
+
+nav{
+	height:35px;
+	padding-top:30px;
+	text-align:center;
+	font-weight: bold;
+	font-size: 1.25em;
+	word-spacing:1em;
+	}
+
+#content
+{
+	text-align:center;
+}
+
+#grading{
+	margin-right:5px;
+	margin-left:150px;
+}
+
+h5{
+	position:relative;
+	left:-30px;
+	font-size:15px;
+}
+
+h6{
+	text-align:center;
+	font-size:15px;
+}
+
+
+nav a{text-decoration: none;}
+nav a:link {color: #E5E4E2;}
+
+
+footer{
+		margin-top: 50px;
+		border-radius: 0px 0px 35px 35px; 
+		background-color: #000000;
+		color:#E5E4E2;
+		font-size: .6em;
+		font-style: bold;
+		text-align:center;
+		padding-top: 10px; 
+		padding-bottom: 10px;
+		height:30px;
+		border-top: 2px solid #221811
+		}
